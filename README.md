@@ -2,7 +2,7 @@
 
 This repository is for a proof of concept I built using React and is powered by MongoDB Atlas, Apollo Client, GraphQL, and Express Framework.  This is a project management application that allows the addition of users as well as projects with the ability to set project status as started, in progress or completed.
 
-![Project Management App Frontend](projectManagementApp.jpg "Project Management App")
+![Project Management App Frontend](/client/public/projectManagementApp.jpg "Project Management App")
 
 ## Why These Technologies?
 
