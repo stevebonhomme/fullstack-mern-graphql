@@ -2,6 +2,8 @@
 
 This repository is for a proof of concept I built using React and is powered by MongoDB Atlas, Apollo Client, GraphQL, and Express Framework.  This is a project management application that allows the addition of users as well as projects with the ability to set project status as started, in progress or completed.
 
+![Project Management App Frontend](projectManagementApp.jpg "Project Management App")
+
 ## Why These Technologies?
 
 Before going further, let's talk about the technologies we'll use for the application stack.
@@ -20,6 +22,10 @@ Together, React and Apollo Client form a powerful combination that fits the requ
 #### Express Framework
 
 Express.js, or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.
+
+#### Bootstrap
+
+Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. Bootstrap makes it easy to style any project.
 
 ## GraphQL Queries & Mutations
 
